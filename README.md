@@ -10,6 +10,8 @@
 
 </div>
 
+### 🌟 Deploy do Projeto: [Clique Aqui](https://projeto-profile-card.vercel.app/)
+
 ---
 
 ## 📋 Sobre o Projeto
