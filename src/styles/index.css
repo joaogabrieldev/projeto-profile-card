@@ -84,7 +84,6 @@ body:has(.card:hover) #profile img {
   margin: auto;
   position: relative;
 
-  /* background-color: red; */
   text-align: center;
   font-family: "Nunito";
   font-weight: 400;
@@ -101,7 +100,6 @@ body:has(.card:hover) #profile img {
   margin: auto;
   position: relative;
 
-  /* background-color: red; */
   color: white;
 
   right: 18px;
